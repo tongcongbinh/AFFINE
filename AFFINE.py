@@ -1,5 +1,3 @@
-# Group 4: Tong Cong Binh - Tran Huu Duy - Do Trung Hieu
-
 # Extended Euclidean Algorithm for finding modular inverse
 def egcd(a, b):
 	x,y, u,v = 0,1, 1,0

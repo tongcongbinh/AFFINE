@@ -175,4 +175,5 @@ def main():
     app.resizable(False,False)
     app.mainloop()
 
-if __name__ == '__main__': main()
+if __name__ == '__main__':
+    main()
