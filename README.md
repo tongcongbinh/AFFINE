@@ -10,7 +10,7 @@
 2. Cài đặt các phụ thuộc cần thiết:
 
    ```bash
-      pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Chạy ứng dụng:
    ```bash
