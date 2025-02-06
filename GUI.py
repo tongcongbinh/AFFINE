@@ -164,7 +164,7 @@ def main():
 
     set_default_color_theme("theme.json")
     
-    image  = Image.open("bg.jpg")
+    image  = Image.open("background.jpg")
     background_image = CTkImage(image, size=(1280, 720))
     bg_lbl = CTkLabel(app, text="", image=background_image)
     bg_lbl.place(x=0, y=0)
